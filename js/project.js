@@ -9,9 +9,3 @@ $("#convert").click(function() {
     console.log(convertedText3);
     $("#html-return").append(convertedText3);
 });
-//
-// (".article__content div img").addClass("lazy");
-//         $("img.lazy").each(function() {
-//             $(this).attr("data-original",$(this).attr("src"));
-//             $(this).removeAttr("src");
-//         });
